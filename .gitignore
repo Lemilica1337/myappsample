@@ -1,0 +1,4 @@
+//Ignored files
+log.txt  //file name and extension
+/dir2    // "/" followed by folder name
+*.txt    // ignore all text files
